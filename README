@@ -1,2 +1,8 @@
-https://bennicportfolio.streamlit.app/
+# BEN-NIC Machine Learning Portfolio
+**Live App:** [Insert Streamlit URL Here]
 
+A multi-page interactive web application deploying two predictive machine learning models:
+* **Fleet Fuel Economy Predictor:** A regression pipeline predicting vehicle MPG using feature engineering and a tuned `LinearRegression` model.
+* **Dry Bean Classifier:** A classification model sorting agricultural products into 7 distinct categories based on morphological parameters.
+
+**Tech Stack:** Python, scikit-learn, Pandas, Streamlit, Docker.
