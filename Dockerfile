@@ -19,5 +19,4 @@ COPY . .
 EXPOSE 8501
 
 # 7. Start the application
-CMD ["streamlit", "run", "app_regression.py"]
 CMD ["streamlit", "run", "Home.py"]
